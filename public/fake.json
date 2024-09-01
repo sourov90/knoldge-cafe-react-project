@@ -1,0 +1,58 @@
+[
+    {
+        "image": "https://i.ibb.co/YBjLdL8/1.jpg",
+        "author": "John Doe",
+        "publishedDate": "2024-08-15",
+        "title": "The Future of Web Development",
+        "tags": [
+            "web development",
+            "future",
+            "technology"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/7vWnvG7/2.png",
+        "author": "Jane Smith",
+        "publishedDate": "2024-07-22",
+        "title": "10 Tips for Learning JavaScript",
+        "tags": [
+            "javascript",
+            "learning",
+            "tips"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/18dJbKk/3.png",
+        "author": "Alex Johnson",
+        "publishedDate": "2024-06-30",
+        "title": "Understanding CSS Grid and Flexbox",
+        "tags": [
+            "CSS",
+            "grid",
+            "flexbox",
+            "layout"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/18dJbKk/3.png",
+        "author": "Emily Brown",
+        "publishedDate": "2024-05-10",
+        "title": "A Beginner's Guide to React",
+        "tags": [
+            "react",
+            "javascript",
+            "beginner"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/18dJbKk/3.png",
+        "author": "Michael Green",
+        "publishedDate": "2024-09-01",
+        "title": "The Importance of Responsive Design",
+        "tags": [
+            "responsive design",
+            "web design",
+            "UI/UX"
+        ]
+    }
+]
